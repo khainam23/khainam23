@@ -40,6 +40,6 @@
 <h3 align="left">Support:</h3>
 <p>MoMo - 0395581810</p>
 
-<p><img align="left" src="https://github.com/user-attachments/assets/34c5140e-e2d0-4003-95a2-456765f04bb7" alt="khainam23" width="40" height="40"/></p>
+<p><img align="left" src="https://github.com/user-attachments/assets/34c5140e-e2d0-4003-95a2-456765f04bb7" alt="khainam23" width="100" height="100"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khainam23&show_icons=true&locale=en" alt="khainam23" /></p>
