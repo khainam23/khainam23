@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm khai nam</h1>
 <h3 align="center">A developer from VietNam</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Building AI-powered web applications, RAG pipelines, and automating workflows with Python and APIs.<br><br>👯 I’m looking to collaborate on<br>Open-source projects involving full-stack web development, machine learning, and efficient backend systems.<br><br>🤝 I’m looking for help with<br>Optimizing multilingual embeddings, improving search/retrieval accuracy in vector databases, and scaling web apps.<br><br>🌱 I’m currently learning<br>Advanced AI techniques, modern frontend frameworks, cloud-native architectures, and real-time web solutions.<br><br>💬 Ask me about<br>Python, web development (frontend & backend), API integration, GitHub automation, RAG architecture, and data pipelines.<br><br>⚡ Fun fact<br>I enjoy experimenting with AI in both English and Japanese contexts, making multilingual web solutions smarter and faster.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khainam23) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@khainam23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khainam23@gmail.com) 
 
